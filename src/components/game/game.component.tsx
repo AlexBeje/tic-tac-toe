@@ -1,7 +1,9 @@
 import React from "react";
 
+// Styles
 import "./game.styles.css";
 
+// Components
 import Board from "../board/board.component";
 
 class Game extends React.Component {

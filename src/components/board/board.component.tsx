@@ -1,7 +1,9 @@
 import React from "react";
 
+// Styles
 import "./board.styles.css";
 
+// Components
 import Square from "../square/square.component";
 
 class Board extends React.Component {

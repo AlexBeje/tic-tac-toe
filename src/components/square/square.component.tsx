@@ -1,7 +1,9 @@
 import React from "react";
 
+// Styles
 import "./square.styles.css";
 
+// Type definition
 type SquareProps = {
   value: number;
 };
